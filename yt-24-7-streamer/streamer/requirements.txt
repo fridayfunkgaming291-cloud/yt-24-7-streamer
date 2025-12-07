@@ -1,2 +1,0 @@
-# Optional, only if you need Python packages for scripting
-python-dotenv==1.0.1
